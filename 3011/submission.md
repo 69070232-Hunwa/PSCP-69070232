@@ -1,7 +1,10 @@
 ## 1. ข้อมูล OJ
 หมายเลข/ชื่อโจทย์ OJ: 3011
+
 OJ submission ID ถ้ามีการส่งแล้ว: 543164
+
 สถานะ OJ: Pass 
+
 เวลาที่ใช้คิดและทำโจทย์ด้วยตนเอง: 15-30 minutes
 
 ## 2. ความเข้าใจโจทย์ของฉัน
@@ -22,24 +25,36 @@ OJ submission ID ถ้ามีการส่งแล้ว: 543164
 ## 5. การทดสอบของฉัน
 ### Test Case 1
 ทำไมเลือก case นี้: ทดสอบว่ารันโค้ดแล้วได้ค่าตามที่ต้องการไหม
+
 Input: Red
        Yellow
+
 Expected output: Orange
+
 Actual output: Orange
+
 Result: Pass 
 ### Test Case 2
 ทำไมเลือก case นี้: ทดสอบถ้าเป็นสีเดียวกันโปรแกรมจะรันยังไง
+
 Input: Blue
        Blue
+
 Expected output: Blue
+
 Actual output: Blue
+
 Result: Pass 
 ### Test Case 3
 ทำไมเลือก case นี้: ทดสอบว่าถ้าใช้สีที่ไม่ได้ set จะเป็นยังไง
+
 Input: Black
        White
+
 Expected output: Gray
+
 Actual output: Error
+
 Result: Pass 
 
 ## 6. การใช้ AI
@@ -52,10 +67,15 @@ Result: Pass
 ## 8. คำรับรองของนักศึกษา
 
 | I wrote this submission in my own words. | Yes |
-| I understand my final code. | Yes |
-| I recorded the real OJ status. | Yes |
-| I did not copy AI-generated text directly into this file. | Yes |
-| I did not copy code from another person. | Yes |
-| If I received human help, I disclosed it in this file. | Yes |
-| I submitted the final code to the OJ by myself. | Yes |
 
+| I understand my final code. | Yes |
+
+| I recorded the real OJ status. | Yes |
+
+| I did not copy AI-generated text directly into this file. | Yes |
+
+| I did not copy code from another person. | Yes |
+
+| If I received human help, I disclosed it in this file. | Yes |
+
+| I submitted the final code to the OJ by myself. | Yes |
