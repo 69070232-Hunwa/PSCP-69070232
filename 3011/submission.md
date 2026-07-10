@@ -66,16 +66,16 @@ Result: Pass
 
 ## 8. คำรับรองของนักศึกษา
 
-| I wrote this submission in my own words. | Yes |
+ I wrote this submission in my own words. | Yes |
 
-| I understand my final code. | Yes |
+ I understand my final code. | Yes |
 
-| I recorded the real OJ status. | Yes |
+ I recorded the real OJ status. | Yes |
 
-| I did not copy AI-generated text directly into this file. | Yes |
+ I did not copy AI-generated text directly into this file. | Yes |
 
-| I did not copy code from another person. | Yes |
+ I did not copy code from another person. | Yes |
 
-| If I received human help, I disclosed it in this file. | Yes |
+ If I received human help, I disclosed it in this file. | Yes |
 
-| I submitted the final code to the OJ by myself. | Yes |
+ I submitted the final code to the OJ by myself. | Yes |
