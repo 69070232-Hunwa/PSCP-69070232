@@ -13,7 +13,7 @@ OJ submission ID ถ้ามีการส่งแล้ว: 543164
 จากโจทย์ต้องการให้เขียนโปรแกรมผสมสี โดยที่มี input เป็นชื่อสี (Red Yellow และ Blue) และต้องการให้ output ออกมาเป็นชื่อสีที่ผสมได้ (Orange Violet และ Green)
 
 ## 3. แผนแรกของฉัน
-สร้าง input 2 ตัว รับค่าของสีทั้ง 2 สีแล้วเชคว่าสีมาจากที่กำหนดไหม ถ้าใช่ก็ให้เข้าการผสม ถ้าไม่ใช่ก้ error
+สร้าง input 2 ตัว รับค่าของสีทั้ง 2 สีแล้วเชคว่าสีมาจากที่กำหนดไหม ถ้าใช่ก็ให้เข้าการผสม ถ้าไม่ใช่ก็ Error
 
 ## 4. วิธีสุดท้ายที่ใช้จริง
 สร้างฟังก์ชัน mix สร้าง input 2 ตัวเป็นชื่อสีที่จะผสม set ค่าสี ได้แก่ Red Yellow และ Blue ตั้งค่าตัวแปร fcon = {c1, c2} ให้สีสลับที่กันได้ 
@@ -57,7 +57,7 @@ Expected output: Gray
 
 Actual output: Error
 
-Result: Pass 
+Result: Not Pass 
 
 ## 6. การใช้ AI
 ใช้ AI กับโจทย์นี้หรือไม่: Yes 
@@ -69,7 +69,7 @@ Result: Pass
 ## 8. คำรับรองของนักศึกษา
 
  | Statement | Yes/No |
-|---|---|
+|---|---| 
 | I wrote this submission in my own words. | Yes |
 | I understand my final code. | Yes |
 | I recorded the real OJ status. | Yes |
