@@ -1,6 +1,7 @@
 """season"""
 
 def season():
+    """ngingin"""
     month = int(input())
     date = int(input())
 
@@ -13,7 +14,7 @@ def season():
     elif month in [10, 11, 12]:
         s = "fall"
 
-    if month % 3 == 0 and date >= 21:
+    if not month % 3 and date >= 21:
         if s == "winter":
             s = "spring"
         elif s == "spring":
