@@ -4,7 +4,7 @@
 
 | Item | Answer |
 |---|---|
-| OJ problem number/title | 3025 |
+| OJ problem number/title | OJ3025 - Season |
 | OJ submission ID, if submitted | 549697 |
 | OJ status | Pass |
 
