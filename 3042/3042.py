@@ -8,4 +8,3 @@ def main():
     print(" ".join(result))
 
 main()
-#kn
