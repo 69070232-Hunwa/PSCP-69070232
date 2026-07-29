@@ -1,6 +1,6 @@
 """yhy"""
 
-def main():
+def temperature():
     """ggjbbj"""
     ti = float(input())
     ui = input()
@@ -30,4 +30,4 @@ def main():
 
     print(f"{re:.2f}")
 
-main()
+temperature()

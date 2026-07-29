@@ -4,13 +4,15 @@
 
 | Item | Answer |
 |---|---|
-| OJ problem number/title | 3011 |
+| OJ problem number/title | OJ3011 - Colors |
 | OJ submission ID, if submitted | 543164 |
 | OJ status | Pass |
 
 ## 2. เครื่องมือ AI ที่ใช้
 
-Gemini
+เขียนชื่อเครื่องมือ AI ที่ใช้
+
+My answer: Gemini
 
 | Statement | Yes / No / Not Applicable | Short note |
 |---|---|---|

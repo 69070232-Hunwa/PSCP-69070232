@@ -164,4 +164,3 @@ My answer:
 | I checked AI's suggestions before using them. | Yes |
 | I can explain my final code. | Yes |
 | I did not ask AI to write this reflection for me. | Yes |
-r
